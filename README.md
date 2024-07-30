@@ -1,3 +1,5 @@
+
+<div align="center">
 # 💫 About Me:
 Hi, I am Naman Khandelwal.
 
@@ -31,3 +33,4 @@ Hi, I am Naman Khandelwal.
 [![](https://visitcount.itsvg.in/api?id=naman0605&icon=5&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
