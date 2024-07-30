@@ -1,5 +1,4 @@
 
-<div align="center">
 # 💫 About Me:
 Hi, I am Naman Khandelwal.
 
@@ -11,6 +10,7 @@ Hi, I am Naman Khandelwal.
 ⚡ Fun fact: I'm passionate about solving real-world problems with code and staying fit!
 
 <div align="center">
+  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/naman-khandelwal-59a298236/) 
 
